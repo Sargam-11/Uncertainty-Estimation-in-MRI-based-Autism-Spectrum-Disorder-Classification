@@ -2,7 +2,7 @@
 
 Graph-based deep learning pipeline for classifying Autism Spectrum Disorder from ABIDE data
 #  Project Structure
-├── abide_prep.ipynb                 # Prepares ABIDE data (sMRI, fMRI, non-imaging) and saves processed files
+├── dataprep.ipynb                 # Prepares ABIDE data (sMRI, fMRI, non-imaging) and saves processed files
 ├── exploritary_analysis_ABI.ipynb   # Basic exploritary analysis of the data 
 ├── ev_gcn_main.ipynb                 # Trains the EV-GCN model and evaluates  uncertainty
 
